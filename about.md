@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+"Even if this world is just a game, you guys aren't part of the game. You guys don't have to just choose a future... You should be able to create one as well. Since you're not part of the game, you don't have to worry about talent, skill, or level. You guys...have a tremendous ultimate move that can overcome anything. I guess what I'm trying to say is...if you just do it, things will turn out okay!"
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[scarlett.taraschi18@ncf.edu](scarlett.taraschi18@ncf.edu)
